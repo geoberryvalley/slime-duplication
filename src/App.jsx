@@ -9,9 +9,9 @@ export default function App() {
     }
 
     const defaultSlime = {
-        colorRed: 50,
-        colorGreen: 50,
-        colorBlue: 255,
+        colorRed: 128,
+        colorGreen: 128,
+        colorBlue: 128,
         
     }
 
