@@ -1,12 +1,14 @@
 .container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .box {
-    font-size: 20px;
+    font-size: 1vmax;
     text-align: center;
-    margin: 1%;
+    margin: 2vmax;
     height: 20vmax;
     width: 20vmax;
     border-radius: 20%;
