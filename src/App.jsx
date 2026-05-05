@@ -11,7 +11,7 @@ export default function App() {
         colorRed: 128,
         colorGreen: 128,
         colorBlue: 128,
-        face: "._.",
+        face: "o_o",
     }
 
     //array of current slimes. current cap is 8
